@@ -13,11 +13,17 @@ EPR (Extended Producer Responsibility) compliance.
 
 ## Setup
 
-```bash
 pip install -r requirements.txt
+
+**Mac/Linux:**
 export GROQ_API_KEY=your_key_here
 uvicorn main:app --reload
-```
+
+**Windows PowerShell:**
+$env:GROQ_API_KEY="your_key_here"
+uvicorn main:app --reload
+
+Then open: http://127.0.0.1:8000/docs
 
 ## Endpoints
 
