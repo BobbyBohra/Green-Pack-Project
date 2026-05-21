@@ -12,7 +12,7 @@ EPR (Extended Producer Responsibility) compliance.
 - **AI Assistant Used** — Claude (claude.ai) for code structure and debugging
 
 ## Setup
-
+```bash
 pip install -r requirements.txt
 
 **Mac/Linux:**
@@ -26,7 +26,7 @@ $env:GROQ_API_KEY="your_key_here"
 uvicorn main:app --reload
 
 Then open: http://127.0.0.1:8000/docs
-
+```
 ## Endpoints
 
 ### 1. POST /submit
