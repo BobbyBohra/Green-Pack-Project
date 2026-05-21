@@ -1,0 +1,17 @@
+Document: CPCB EPR Guidelines 2022 - Section 1
+Source: Central Pollution Control Board, India
+
+Extended Producer Responsibility (EPR) Overview:
+EPR is a policy approach under which producers are given significant responsibility for the treatment or disposal of post-consumer products.
+
+Key Rules:
+- Every plastic packaging producer must register with CPCB.
+- Monthly declarations of plastic put into market must be submitted by the 10th of every following month.
+- Categories covered: rigid plastic, flexible plastic, multilayer plastic.
+- Producers must maintain records for at least 3 years.
+- Annual EPR targets must be met failing which penalties apply.
+
+Penalties:
+- Non-submission of monthly declaration: Rs. 10,000 per month.
+- False declaration: Rs. 50,000 and cancellation of registration.
+- Non-achievement of EPR targets: Rs. 50 per kg of shortfall.

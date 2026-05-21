@@ -1,0 +1,20 @@
+Document: EPR Registration and Compliance FAQ
+Source: CPCB Mock Policy Document
+
+Q: Who needs to register for EPR?
+A: All producers, importers, and brand owners (PIBOs) dealing with plastic packaging must register on the CPCB EPR portal.
+
+Q: What is the deadline for monthly declaration?
+A: Monthly plastic declaration must be submitted by the 10th of the following month. For example, April 2026 declaration is due by 10th May 2026.
+
+Q: What happens if declared quantity does not match procurement?
+A: If the variance is more than 5%, it is flagged as a discrepancy. The producer must submit a written explanation within 7 working days.
+
+Q: What are EPR targets?
+A: EPR targets are yearly recycling/reuse obligations assigned to each producer based on their plastic footprint. Non-achievement attracts penalties.
+
+Q: Can I revise a submitted declaration?
+A: Yes, revision is allowed within the same month. After month close, revision requires CPCB approval.
+
+Q: What documents are needed for EPR compliance?
+A: Purchase invoices, ERP procurement records, recycler certificates, and monthly declaration receipts must be maintained.

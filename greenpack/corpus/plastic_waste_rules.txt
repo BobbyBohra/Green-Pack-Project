@@ -1,0 +1,17 @@
+Document: Plastic Waste Management Rules 2016 - Summary
+Source: Ministry of Environment, Forest and Climate Change, India
+
+Plastic Categories and Limits:
+1. Rigid Plastic: Includes bottles, containers, crates. Monthly declaration required.
+2. Flexible Plastic: Includes bags, films, pouches. Monthly declaration required.
+3. Multilayer Plastic: Includes sachets, packaging with multiple layers. Monthly declaration required.
+
+Declaration Tolerance:
+- A variance of up to 5% between declared quantity and actual procurement is acceptable.
+- Variance above 5% must be explained in writing within 7 days.
+- Repeated variance above 10% may lead to show cause notice.
+
+Reconciliation Process:
+- Producers must reconcile declared quantities with ERP/procurement records monthly.
+- Discrepancies must be flagged and corrected in next month's declaration.
+- Third party audit required annually for producers above 1000 tonnes per year.
